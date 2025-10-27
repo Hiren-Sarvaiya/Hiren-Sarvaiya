@@ -35,9 +35,9 @@
 
 <hr />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/Hiren-Sarvaiya/profile-testing/blob/69c6c0cffdbe7afab3de233b934b373f5097c0ed/github-contribution-grid-snake-dark.svg](https://github.com/Hiren-Sarvaiya/Hiren-Sarvaiya/blob/4582ab5ab6f12f97ccf8ffc9634d83a812cebfc7/github-contribution-grid-snake-dark.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="[https://github.com/Hiren-Sarvaiya/profile-testing/blob/69c6c0cffdbe7afab3de233b934b373f5097c0ed/github-contribution-grid-snake.svg](https://github.com/Hiren-Sarvaiya/Hiren-Sarvaiya/blob/4582ab5ab6f12f97ccf8ffc9634d83a812cebfc7/github-contribution-grid-snake.svg)" />
-  <img alt="GitHub Contribution Snake" src="[https://github.com/Hiren-Sarvaiya/profile-testing/blob/69c6c0cffdbe7afab3de233b934b373f5097c0ed/github-contribution-grid-snake.svg](https://github.com/Hiren-Sarvaiya/Hiren-Sarvaiya/blob/4582ab5ab6f12f97ccf8ffc9634d83a812cebfc7/github-contribution-grid-snake.svg)" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hiren-Sarvaiya/Hiren-Sarvaiya/blob/4582ab5ab6f12f97ccf8ffc9634d83a812cebfc7/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hiren-Sarvaiya/Hiren-Sarvaiya/blob/4582ab5ab6f12f97ccf8ffc9634d83a812cebfc7/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/Hiren-Sarvaiya/Hiren-Sarvaiya/blob/4582ab5ab6f12f97ccf8ffc9634d83a812cebfc7/github-contribution-grid-snake-dark.svg" />
 </picture>
 <hr />
 
