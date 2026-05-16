@@ -26,13 +26,6 @@
 </p>
 <br />
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiren-Sarvaiya&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiren-Sarvaiya&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-</p>
-
 <hr />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hiren-Sarvaiya/Hiren-Sarvaiya/blob/4582ab5ab6f12f97ccf8ffc9634d83a812cebfc7/github-contribution-grid-snake-dark.svg" />
