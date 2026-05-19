@@ -28,9 +28,12 @@
 
 <hr />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hiren-Sarvaiya/Hiren-Sarvaiya/blob/4582ab5ab6f12f97ccf8ffc9634d83a812cebfc7/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hiren-Sarvaiya/Hiren-Sarvaiya/blob/4582ab5ab6f12f97ccf8ffc9634d83a812cebfc7/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/Hiren-Sarvaiya/Hiren-Sarvaiya/blob/4582ab5ab6f12f97ccf8ffc9634d83a812cebfc7/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Hiren-Sarvaiya/Hiren-Sarvaiya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Hiren-Sarvaiya/Hiren-Sarvaiya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/Hiren-Sarvaiya/Hiren-Sarvaiya/output/pacman-contribution-graph.svg">
 </picture>
 <hr />
 
